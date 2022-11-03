@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damla</h1>
-<h3 align="center">A Full Stack Developer From İzmir,Turkey</h3>
+<h3 align="center">A Front End Developer From İzmir,Turkey</h3>
 <p> Result-oriented web application 
 developer with training and enterprise 
 experience in all stages of 
@@ -16,7 +16,7 @@ responsible.</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damlademir" alt="damlademir" /></a> </p>
 
-- 🔭 I’m currently working on **Vue.js,React.js,Javascript,.Net Core etc.**
+- 🔭 I’m currently working on **Vue.js,React.js,Javascript,Web components,sass etc.**
 
 - 📫 How to reach me **dmldemirr@gmail.com**
 
